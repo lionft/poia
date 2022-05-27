@@ -3,7 +3,7 @@
 
   "SCAN_LINK": "https://etherscan.io/address/0x3708b86fb5c879e1ec06eee4a608becf64c95744",
   "NETWORK": {
-    "NAME": "etherscan",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
