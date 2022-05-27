@@ -1,11 +1,11 @@
 {
-  "CONTRACT_ADDRESS": "0xBFeCcF04298b94e64672eFf79cC43C39C82Ca9b6",
+  "CONTRACT_ADDRESS": "0xBDb45DF7207B861Be3957F69B0A5dF2B0F824E0F",
 
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "SCAN_LINK": "https://etherscan.io/address/0x3708b86fb5c879e1ec06eee4a608becf64c95744",
   "NETWORK": {
-    "NAME": "mumbai testnet",
-    "SYMBOL": "matic",
-    "ID": 80001
+    "NAME": "etherscan",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
   "NFT_NAME": "MoonButts",
   "SYMBOL": "MoonButts",
